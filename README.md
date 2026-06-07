@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Lubna Akter</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=CSE+Student+%40+AIUB;ASP.NET+%7C+C%23+%7C+Web+Developer;Building+Real-World+Projects+%F0%9F%9A%80;Always+Learning+New+Things!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=ASP.NET+Developer" alt="Typing SVG" />
 </p>
 
 ---
