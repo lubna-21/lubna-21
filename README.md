@@ -13,8 +13,8 @@ I am passionate about software development, web technologies, and building real-
 I enjoy learning new technologies and improving my problem-solving skills through project development.
 
 - 📍 Based in **Dhaka, Bangladesh**
-- 🌱 Currently learning **ASP.NET Core, Database Design & Software Engineering**
-- 🎯 Goal: Secure a **Software Engineering Internship**
+- 🌱 Exploring ASP.NET Core, Database Systems, and Software Engineering
+- 🎯 Goal: Passionate about software development
 - 📫 Reach me at **lubnaakter995@gmail.com**
 
 ---
