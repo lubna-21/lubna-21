@@ -14,7 +14,7 @@ I enjoy learning new technologies and improving my problem-solving skills throug
 
 - 📍 Based in **Dhaka, Bangladesh**
 - 🌱 Exploring ASP.NET Core, Database Systems, and Software Engineering
-- 🎯 Goal: Passionate about software development
+- 🎯 Interested in building practical software solutions
 - 📫 Reach me at **lubnaakter995@gmail.com**
 
 ---
@@ -86,16 +86,16 @@ I enjoy learning new technologies and improving my problem-solving skills throug
 ## 📚 Currently Learning
 
 - 🔷 ASP.NET Core Web Development
-- 🗄️ Database System 
+- 🗄️ Database Systems 
 - 🛠️ Software Engineering
 
 ---
 
 ## 🎯 Goals
 
-- 💼 Secure a Software Engineering Internship
-- 🔧 Improve backend development skills
-- 🌐 Build scalable real-world projects
+- 🔧 Continuously improve my software development skills
+- 🌐 Build impactful real-world projects
+- 📚 Explore new technologies and development practices
 
 ---
 
