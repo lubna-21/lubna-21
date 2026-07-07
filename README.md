@@ -72,17 +72,6 @@ I enjoy learning new technologies and improving my problem-solving skills throug
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lubna-21&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=lubna-21&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lubna-21&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
-
 ---
 
 ## 📚 Currently Learning
