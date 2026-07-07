@@ -13,8 +13,8 @@ I am passionate about software development, web technologies, and building real-
 I enjoy learning new technologies and improving my problem-solving skills through project development.
 
 - 📍 Based in **Dhaka, Bangladesh**
-- 🌱 Exploring ASP.NET Core, Database Systems, and Software Engineering
-- 🎯 Interested in building practical software solutions
+- 🌱 Currently learning **ASP.NET Core, Database Design & Software Engineering**
+- 🎯 Goal: Secure a **Software Engineering Internship**
 - 📫 Reach me at **lubnaakter995@gmail.com**
 
 ---
@@ -26,12 +26,14 @@ I enjoy learning new technologies and improving my problem-solving skills throug
   <img src="https://img.shields.io/badge/ASP.NET_MVC-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" />
- 
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -74,7 +76,7 @@ I enjoy learning new technologies and improving my problem-solving skills throug
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lubna-21&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lubna-21&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=lubna-21&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -86,16 +88,16 @@ I enjoy learning new technologies and improving my problem-solving skills throug
 ## 📚 Currently Learning
 
 - 🔷 ASP.NET Core Web Development
-- 🗄️ Database Systems 
-- 🛠️ Software Engineering
+- 🗄️ Database Design & Optimization
+- 🛠️ Software Engineering Practices
 
 ---
 
 ## 🎯 Goals
 
-- 🔧 Continuously improve my software development skills
-- 🌐 Build impactful real-world projects
-- 📚 Explore new technologies and development practices
+- 💼 Secure a Software Engineering Internship
+- 🔧 Improve backend development skills
+- 🌐 Build scalable real-world projects
 
 ---
 
